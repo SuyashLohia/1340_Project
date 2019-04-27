@@ -33,4 +33,4 @@ To access the Admin component, the password is "password".
 
 Who maintains and contributes to the project?
 
-Suyash Lohia ( ) and Kwok Zi Xing ( 3035603813 )
+Suyash Lohia (3035550406) and Kwok Zi Xing ( 3035603813 )
